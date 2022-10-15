@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @art-tapin
+- 👋 Hi, I’m Artem!
 - 👀 I’m interested in Functional Programming and Backend development
 - 🌱 I’m currently learning Java & Scala
 - 📫 How to reach me: 
