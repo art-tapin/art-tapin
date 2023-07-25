@@ -16,8 +16,3 @@ If you're working on a project that you think I'd be interested in or just want 
 
 - Email: [tanerus2@gmail.com](mailto:tanerus2@gmail.com)
 - Telegram: [@artem_tapin](https://t.me/artem_tapin)
-
-## 📈 Stats
-
-[![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
