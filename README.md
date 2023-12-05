@@ -1,14 +1,14 @@
 # Hi there! 👋
 
-I'm Artem, an intern at Red Hat with a passion for functional programming, backend development, and cloud solutions. 
+I'm Artem, a Computer Science student with a passion for functional programming, backend development, and cloud solutions.
 
-## 🔭 Projects I am currently anticipating
+## 🔭 Projects I anticipated
 
 - [Kuadrant](https://github.com/Kuadrant) - Kuadrant enables hybrid cloud application developers to securely expose & consume k8s services. Think AuthN/AuthZ, rate limiting, and OAS.
 
 ## 🌱 Learning
 
-I'm learning Kubernetes, Go and always looking for new cutting-edge technologies to learn!
+I'm learning Rust and Haskell.
 
 ## 👯 Looking to collaborate?
 
