@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-I'm Artem, a Computer Science student with a passion for functional programming, backend development, and cloud solutions.
+I'm Artem, a Computer Science graduate with a passion for functional programming, backend development, and cloud solutions.
 
 ## 🔭 Projects I anticipated
 
-- [Kuadrant](https://github.com/Kuadrant) - Kuadrant enables hybrid cloud application developers to securely expose & consume k8s services. Think AuthN/AuthZ, rate limiting, and OAS.
+- [Kuadrant](https://github.com/Kuadrant) - https://kuadrant.io/
 
 ## 🌱 Learning
 
