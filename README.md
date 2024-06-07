@@ -9,7 +9,7 @@ I'm Artem, a Computer Science graduate with a passion for functional programming
 
 ## 🌱 Learning
 
-I'm learning Rust and Haskell.
+I'm learning Rust, Haskell and Python (Django)
 
 ## 👯 Looking to collaborate?
 
