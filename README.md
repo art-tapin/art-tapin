@@ -5,6 +5,7 @@ I'm Artem, a Computer Science graduate with a passion for functional programming
 ## 🔭 Projects I anticipated
 
 - [Kuadrant](https://github.com/Kuadrant) - https://kuadrant.io/
+- [Ansible](https://github.com/ansible/ansible) - https://www.ansible.com/ (currently actively involved)
 
 ## 🌱 Learning
 
