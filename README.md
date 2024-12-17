@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Artem, a Computer Science graduate with a passion for functional programming, backend development, and cloud solutions.
+I'm Artem, a Computer Science graduate with a passion for functional programming, AI, backend development, and cloud solutions.
 
 ## 🔭 Projects I anticipated
 
