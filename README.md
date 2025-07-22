@@ -1,15 +1,19 @@
-# Hi there! 👋
+# Hi there 👋 I’m Artem Tiupin
 
-I'm Artem, a Computer Science graduate with a passion for functional programming, AI, backend development, and cloud solutions.
+I’m a former Red Hatter and now a Solutions Architect at Aiven 🦀, with a Computer Science background and a soft spot for functional programming, ML, backend engineering, and cloud‑native tools.
 
-## 🔭 Projects I anticipated
+- 🔭 **Current focus:** Designing secure, scalable data patterns that let teams stream, store, and serve data on any cloud  
+- 🌱 **Learning:** Deeper Kafka internals and next‑gen open‑source tooling  
+- 💬 **Ask me about:** Apache Kafka, PostgreSQL, Ansible/AWX, Go operators, cloud migrations  
+- 📫 **Reach me:** tanerus2@gmail.com  
+- 🔗 **LinkedIn:** [artem‑tiupin](https://www.linkedin.com/in/artem‑tiupin/)  
 
-- [Ansible](https://github.com/ansible/ansible) - https://www.ansible.com/
-- [AWX](https://github.com/ansible/awx) - https://www.redhat.com/en/ansible-collaborative/awx
-- [Kuadrant](https://github.com/Kuadrant) - https://kuadrant.io/
+---
 
-## 👯 Looking to collaborate?
+## 🔨 Featured Projects
 
-If you're working on a project that you think I'd be interested in or just want to chat about tech, feel free to reach out! You can reach me at:
+- [Ansible](https://www.ansible.com/) – an open‑source automation platform for configuration management and orchestration  
+- [AWX](https://www.redhat.com/en/ansible-collaborative/awx) – the community‑driven web UI and API for Ansible automation  
+- [Kuadrant](https://kuadrant.io/) – a Kubernetes‑native API gateway and management operator  
 
-- Email: [tanerus2@gmail.com](mailto:tanerus2@gmail.com)
+ Drop me a line if you’d like to collaborate.  
